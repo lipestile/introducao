@@ -14,7 +14,7 @@ export default function Home() {
 
 
       <Container>
-        <h1 >hello world</h1>
+        <h1 >helloo world</h1>
         <p>qualquer texto</p>
         <p>qualquer texto</p>
         <p>qualquer texto</p>
