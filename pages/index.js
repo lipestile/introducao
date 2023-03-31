@@ -8,12 +8,13 @@ import Pagina from "../components/Pagina";
 export default function Home() {
   return (
     <>
+    <Cabecalho/>
     <Pagina/>
      
 
 
       <Container>
-        <h1 >Fucking world</h1>
+        <h1 >hello world</h1>
         <p>qualquer texto</p>
         <p>qualquer texto</p>
         <p>qualquer texto</p>
